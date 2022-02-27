@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "170648673064",
+    "project_id": "newone-901c5",
+    "storage_bucket": "newone-901c5.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:170648673064:android:6faeb2ac343f2f2af94e1d",
+        "android_client_info": {
+          "package_name": "com.flutterflow.mitra"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "170648673064-g1rfs8b6i8dumsus232kln858jlkabha.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.flutterflow.mitra",
+            "certificate_hash": "f0ea00d372fa9cebea75dd9b94794441bb856160"
+          }
+        },
+        {
+          "client_id": "170648673064-8kck7fm705espjev9eup77gjmd69g5ms.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAUTJRJjwwhO9VDc8YpUBm2-v9pO843bJk"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "170648673064-8kck7fm705espjev9eup77gjmd69g5ms.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
